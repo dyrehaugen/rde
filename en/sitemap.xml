@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dyrehaugen.github.io/rde/tags/corporate-liability/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+    <loc>https://dyrehaugen.github.io/rde/tags/capitalism/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rde/tags/green-transition/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+    <loc>https://dyrehaugen.github.io/rde/tags/development/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rde/tags/impact-assessment/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+    <loc>https://dyrehaugen.github.io/rde/posts/2025-02-20-development-as-enemy/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/tags/growth/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -24,13 +27,38 @@
                 href="https://dyrehaugen.github.io/rde/"
                 />
   </url><url>
+    <loc>https://dyrehaugen.github.io/rde/posts/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/tags/simplicity/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/tags/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dyrehaugen.github.io/rde/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyrehaugen.github.io/rde/tags/"
+                />
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/tags/corporate-liability/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/tags/green-transition/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/tags/impact-assessment/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dyrehaugen.github.io/rde/posts/2024-06-24-planetary-politics/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/tags/planetary-boundaries/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dyrehaugen.github.io/rde/posts/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/tags/rationing/</loc>
@@ -44,22 +72,6 @@
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/tags/sustainability/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dyrehaugen.github.io/rde/tags/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dyrehaugen.github.io/rde/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dyrehaugen.github.io/rde/tags/"
-                />
-  </url><url>
-    <loc>https://dyrehaugen.github.io/rde/tags/capitalism/</loc>
-    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/posts/2023-12-13-capitalism-is-creeping-up-on-my-beach/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>
@@ -165,9 +177,6 @@
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/tags/environment/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dyrehaugen.github.io/rde/tags/growth/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/posts/2021-05-17-the-curse-of-development/</loc>
