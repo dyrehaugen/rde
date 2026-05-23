@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Automation on Opinions</title>
-    <link>https://dyrehaugen.github.io/rde/tags/automation/</link>
+    <link>http://localhost/rde/tags/automation/</link>
     <description>Recent content in Automation on Opinions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dyrehaugen.github.io/rde/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/rde/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robotic Capitalism</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2026-05-10-robotic-capitalism/</link>
+      <link>http://localhost/rde/posts/2026-05-10-robotic-capitalism/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2026-05-10-robotic-capitalism/</guid>
+      <guid>http://localhost/rde/posts/2026-05-10-robotic-capitalism/</guid>
       <description>In China humanoid robots are now outperforming humans in marathons. Why should not the same happen to dancing?
 Class Robots It takes two for capitalism to dance - capitalists and workers. In the 1980s capitalists were nearly eradicated, but neoliberalism rescued them from extinction. From that time wages gave up following productivity - workers were held on the subsistence minimum of modern society and capitalism blossomed once more.
 Since then automation and robotics have arrived from the wonderful world of technology.</description>

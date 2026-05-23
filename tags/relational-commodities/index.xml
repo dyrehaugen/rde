@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Relational Commodities on Opinions</title>
-    <link>https://dyrehaugen.github.io/rde/tags/relational-commodities/</link>
+    <link>http://localhost/rde/tags/relational-commodities/</link>
     <description>Recent content in Relational Commodities on Opinions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dyrehaugen.github.io/rde/tags/relational-commodities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/rde/tags/relational-commodities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Life of Economics after AI</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2026-04-18-the-life-of-economics-after-ai/</link>
+      <link>http://localhost/rde/posts/2026-04-18-the-life-of-economics-after-ai/</link>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2026-04-18-the-life-of-economics-after-ai/</guid>
+      <guid>http://localhost/rde/posts/2026-04-18-the-life-of-economics-after-ai/</guid>
       <description>Commodifying human interaction AI replaces scarcity with abundance. Economics is the discipline for management of scarcity. Will AI make economics irrelevant?
 No, says Alex Imas &amp;ldquo;we will still have scarcity, but the kind of scarcity that matters will change.&amp;rdquo;
 It may be reasonable for an economist to be unable to accept the need for his daily business disappear, so he goes on with a lengthy essay and CES-modelling to find the new kind of scarcity that AI presumably will conway.</description>
