@@ -2,667 +2,697 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Opinions</title>
-    <link>http://localhost/rde/tags/</link>
+    <link>https://dyrehaugen.github.io/rde/tags/</link>
     <description>Recent content in Tags on Opinions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/rde/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dyrehaugen.github.io/rde/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capitalism</title>
+      <link>https://dyrehaugen.github.io/rde/tags/capitalism/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dyrehaugen.github.io/rde/tags/capitalism/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Geopolitics</title>
+      <link>https://dyrehaugen.github.io/rde/tags/geopolitics/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dyrehaugen.github.io/rde/tags/geopolitics/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Ice Cream</title>
+      <link>https://dyrehaugen.github.io/rde/tags/ice-cream/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dyrehaugen.github.io/rde/tags/ice-cream/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Socialism</title>
+      <link>https://dyrehaugen.github.io/rde/tags/socialism/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://dyrehaugen.github.io/rde/tags/socialism/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
     <item>
       <title>Ai</title>
-      <link>http://localhost/rde/tags/ai/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/ai/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/ai/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/ai/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Automation</title>
-      <link>http://localhost/rde/tags/automation/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/automation/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/automation/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Capitalism</title>
-      <link>http://localhost/rde/tags/capitalism/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost/rde/tags/capitalism/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/automation/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Robots</title>
-      <link>http://localhost/rde/tags/robots/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/robots/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/robots/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/robots/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Economics</title>
-      <link>http://localhost/rde/tags/economics/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/economics/</link>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/economics/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/economics/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Relational Commodities</title>
-      <link>http://localhost/rde/tags/relational-commodities/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/relational-commodities/</link>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/relational-commodities/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/relational-commodities/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Classes</title>
-      <link>http://localhost/rde/tags/classes/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/classes/</link>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/classes/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/classes/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Artic</title>
-      <link>http://localhost/rde/tags/artic/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/artic/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/artic/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/artic/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Greenland</title>
-      <link>http://localhost/rde/tags/greenland/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/greenland/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/greenland/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/greenland/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Imperialism</title>
-      <link>http://localhost/rde/tags/imperialism/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/imperialism/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/imperialism/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/imperialism/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Oil</title>
-      <link>http://localhost/rde/tags/oil/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/oil/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/oil/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/oil/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Trade Corridors</title>
-      <link>http://localhost/rde/tags/trade-corridors/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/trade-corridors/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/trade-corridors/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/trade-corridors/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Venezuela</title>
-      <link>http://localhost/rde/tags/venezuela/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/venezuela/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/venezuela/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/venezuela/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>European-Security</title>
-      <link>http://localhost/rde/tags/european-security/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/european-security/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/european-security/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/european-security/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Military-Integration</title>
-      <link>http://localhost/rde/tags/military-integration/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/military-integration/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/military-integration/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/military-integration/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Nato</title>
-      <link>http://localhost/rde/tags/nato/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/nato/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/nato/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/nato/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Eu</title>
-      <link>http://localhost/rde/tags/eu/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/eu/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/eu/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/eu/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Neoliberalism</title>
-      <link>http://localhost/rde/tags/neoliberalism/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/neoliberalism/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/neoliberalism/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/neoliberalism/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Sovereignty</title>
-      <link>http://localhost/rde/tags/sovereignty/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/sovereignty/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/sovereignty/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/sovereignty/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Trade</title>
-      <link>http://localhost/rde/tags/trade/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/trade/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/trade/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/trade/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Trump</title>
-      <link>http://localhost/rde/tags/trump/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/trump/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/trump/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/trump/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://localhost/rde/tags/development/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/development/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/development/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/development/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Growth</title>
-      <link>http://localhost/rde/tags/growth/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/growth/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/growth/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/growth/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Simplicity</title>
-      <link>http://localhost/rde/tags/simplicity/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/simplicity/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/simplicity/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/simplicity/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Corporate-Liability</title>
-      <link>http://localhost/rde/tags/corporate-liability/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/corporate-liability/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/corporate-liability/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/corporate-liability/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Green-Transition</title>
-      <link>http://localhost/rde/tags/green-transition/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/green-transition/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/green-transition/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/green-transition/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Impact-Assessment</title>
-      <link>http://localhost/rde/tags/impact-assessment/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/impact-assessment/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/impact-assessment/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/impact-assessment/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Planetary-Boundaries</title>
-      <link>http://localhost/rde/tags/planetary-boundaries/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/planetary-boundaries/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/planetary-boundaries/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/planetary-boundaries/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Rationing</title>
-      <link>http://localhost/rde/tags/rationing/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/rationing/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/rationing/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/rationing/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Societal-Governance</title>
-      <link>http://localhost/rde/tags/societal-governance/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/societal-governance/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/societal-governance/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/societal-governance/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Societal-Transformation</title>
-      <link>http://localhost/rde/tags/societal-transformation/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/societal-transformation/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/societal-transformation/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/societal-transformation/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Sustainability</title>
-      <link>http://localhost/rde/tags/sustainability/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/sustainability/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/sustainability/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/sustainability/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Commons</title>
-      <link>http://localhost/rde/tags/commons/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/commons/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/commons/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/commons/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Entrepreneurship</title>
-      <link>http://localhost/rde/tags/entrepreneurship/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/entrepreneurship/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/entrepreneurship/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/entrepreneurship/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Gaza</title>
-      <link>http://localhost/rde/tags/gaza/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/gaza/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/gaza/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/gaza/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Hamas</title>
-      <link>http://localhost/rde/tags/hamas/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/hamas/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/hamas/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/hamas/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Israel</title>
-      <link>http://localhost/rde/tags/israel/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/israel/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/israel/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/israel/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Palestine</title>
-      <link>http://localhost/rde/tags/palestine/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/palestine/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/palestine/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/palestine/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Privatization</title>
-      <link>http://localhost/rde/tags/privatization/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/privatization/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/privatization/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/privatization/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Public Land</title>
-      <link>http://localhost/rde/tags/public-land/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/public-land/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/public-land/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/public-land/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>China</title>
-      <link>http://localhost/rde/tags/china/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/china/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/china/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/china/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Fascism</title>
-      <link>http://localhost/rde/tags/fascism/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/fascism/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/fascism/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/fascism/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Government</title>
-      <link>http://localhost/rde/tags/government/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/government/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/government/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/government/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Liberalism</title>
-      <link>http://localhost/rde/tags/liberalism/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/liberalism/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/liberalism/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/liberalism/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>http://localhost/rde/tags/skills/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/skills/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/skills/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/skills/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Usa</title>
-      <link>http://localhost/rde/tags/usa/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/usa/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/usa/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/usa/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Military</title>
-      <link>http://localhost/rde/tags/military/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/military/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/military/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/military/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Ukraine</title>
-      <link>http://localhost/rde/tags/ukraine/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/ukraine/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/ukraine/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/ukraine/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Climate</title>
-      <link>http://localhost/rde/tags/climate/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/climate/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/climate/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/climate/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Globalization</title>
-      <link>http://localhost/rde/tags/globalization/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/globalization/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/globalization/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/globalization/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Environment</title>
-      <link>http://localhost/rde/tags/environment/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/environment/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/environment/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/environment/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Health</title>
-      <link>http://localhost/rde/tags/health/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/health/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/health/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/health/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Aristocracy</title>
-      <link>http://localhost/rde/tags/aristocracy/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/aristocracy/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/aristocracy/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/aristocracy/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Conflict</title>
-      <link>http://localhost/rde/tags/conflict/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/conflict/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/conflict/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/conflict/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Elite</title>
-      <link>http://localhost/rde/tags/elite/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/elite/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/elite/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/elite/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Climate Breakdown</title>
-      <link>http://localhost/rde/tags/climate-breakdown/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/climate-breakdown/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/climate-breakdown/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/climate-breakdown/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Economic Growth</title>
-      <link>http://localhost/rde/tags/economic-growth/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/economic-growth/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/economic-growth/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/economic-growth/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Financial Stability</title>
-      <link>http://localhost/rde/tags/financial-stability/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/financial-stability/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/financial-stability/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/financial-stability/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Big Data</title>
-      <link>http://localhost/rde/tags/big-data/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/big-data/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/big-data/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/big-data/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Central Banks</title>
-      <link>http://localhost/rde/tags/central-banks/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/central-banks/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/central-banks/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/central-banks/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Uncertainty</title>
-      <link>http://localhost/rde/tags/uncertainty/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/uncertainty/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/uncertainty/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/uncertainty/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Ethnic Minorities</title>
-      <link>http://localhost/rde/tags/ethnic-minorities/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/ethnic-minorities/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/ethnic-minorities/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/ethnic-minorities/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Thailand</title>
-      <link>http://localhost/rde/tags/thailand/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/thailand/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/thailand/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/thailand/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Capabilities</title>
-      <link>http://localhost/rde/tags/capabilities/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/capabilities/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/capabilities/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/capabilities/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Training</title>
-      <link>http://localhost/rde/tags/training/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/training/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/training/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/training/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Transition</title>
-      <link>http://localhost/rde/tags/transition/</link>
+      <link>https://dyrehaugen.github.io/rde/tags/transition/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/tags/transition/</guid>
+      <guid>https://dyrehaugen.github.io/rde/tags/transition/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

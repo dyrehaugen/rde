@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Growth on Opinions</title>
-    <link>http://localhost/rde/tags/growth/</link>
+    <link>https://dyrehaugen.github.io/rde/tags/growth/</link>
     <description>Recent content in Growth on Opinions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/rde/tags/growth/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dyrehaugen.github.io/rde/tags/growth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development as Enemy</title>
-      <link>http://localhost/rde/posts/2025-02-20-development-as-enemy/</link>
+      <link>https://dyrehaugen.github.io/rde/posts/2025-02-20-development-as-enemy/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/posts/2025-02-20-development-as-enemy/</guid>
+      <guid>https://dyrehaugen.github.io/rde/posts/2025-02-20-development-as-enemy/</guid>
       <description>Simplicity as Enemy When things are simple and works well people are happy with what they have. Happy people don&amp;rsquo;t want &amp;lsquo;Change&amp;rsquo; - they want to go on with what they have. Then &amp;lsquo;Development&amp;rsquo; isn&amp;rsquo;t neccesary, that&amp;rsquo;s a problem - for &amp;lsquo;Capital&amp;rsquo;. Capital needs &amp;lsquo;Growth&amp;rsquo; - and don&amp;rsquo;t get it!
 So &amp;lsquo;Simplicity&amp;rsquo; and &amp;lsquo;Capital&amp;rsquo; don&amp;rsquo;t go together.
 As &amp;lsquo;Capital&amp;rsquo; is (in) &amp;lsquo;Power&amp;rsquo;, &amp;lsquo;Simplicity&amp;rsquo; will loose. Simple things thats works well are pulled from the market.</description>
@@ -33,10 +33,10 @@ New &lsquo;Needs&rsquo; are created - for features people did not know they &rsq
     
     <item>
       <title>The Curse of Development</title>
-      <link>http://localhost/rde/posts/2021-05-17-the-curse-of-development/</link>
+      <link>https://dyrehaugen.github.io/rde/posts/2021-05-17-the-curse-of-development/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/posts/2021-05-17-the-curse-of-development/</guid>
+      <guid>https://dyrehaugen.github.io/rde/posts/2021-05-17-the-curse-of-development/</guid>
       <description>There exists a well-known Swedish song from my childhood. It begins like this:
 Lyckliga gatan, du finns inte mere Du er försvinnen med hela kvarteret ... In English the meaning would be:
 Oh Happy Street of my Childhild you no more exits You are now gone together with the whole quarter ... The lyrics profondly catches the sorry mood of someone experiencing the arrival of the &amp;lsquo;Development Machine&amp;rsquo; in their neigbourhood.</description>
